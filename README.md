@@ -17,8 +17,11 @@
 ### Como utilizar localmente:
 
 $ git clone <https://github.com/briitogabriel/HC_e-commerce>
+
 $ cd HC_e-commerce
+
 $ yarn install
+
 $ yarn start
 
 Acessar: http://localhost:3000/
