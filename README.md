@@ -12,7 +12,7 @@
 - <a href="https://pt-br.reactjs.org/">React</a>
 - <a href="https://nodejs.org/en/">Node</a>
 - <a href="https://www.javascript.com/">JavaScript</a>
-- <a href="https://sass-lang.com/">SASS</a>
+- <a href="https://styled-components.com/">Styled Components</a>
 
 ### Como utilizar localmente:
 
